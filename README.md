@@ -10,4 +10,4 @@
 
 ![MauricioMiranda GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioMiranda&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MauricioMiranda/MauricioMiranda/blob/output/github-contribution-grid-snake.svg)
