@@ -2,7 +2,7 @@
 
 - 🧑‍💼 Hoje trabalho como QA
 - 💻 Estudando Robot Framework e Cypress
-- 👨‍🎓 Formado na Universidade Presbiteria Mackenzie em Sistemas de Informação
+- 👨‍🎓 Graduado em Sistemas de Informação pela Universidade Presbiteriana Mackenzi
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-miranda-b76348101/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mau_miranda/)
