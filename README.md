@@ -1,7 +1,6 @@
 ### Olá! Eu sou Maurício Miranda 👋
 
 - 🧑‍💼 Hoje trabalho como QA
-- 💻 Estudando Robot Framework e Cypress
 - 👨‍🎓 Graduado em Sistemas de Informação pela Universidade Presbiteriana Mackenzie
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-miranda-b76348101/)
