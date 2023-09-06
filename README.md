@@ -2,7 +2,7 @@
 
 - 🧑‍💼 Trabalho como Sênior Software QA Analyst no C6 Bank.
 - 👨‍🎓 Graduado em Sistemas de Informação pela Universidade Presbiteriana Mackenzie.
-- 👨‍🎓 Realizo automação de testes com Robot Framework (Web, Mobile e API), Cypress (Web).
+- 👨‍🎓 Realizo automação de testes com Robot Framework (Web, Mobile e API) e Cypress (Web).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-miranda-b76348101/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mau_miranda/)
